@@ -1,0 +1,15 @@
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\bin\Debug\HW3.3.exe.config
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\bin\Debug\HW3.3.exe
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\bin\Debug\HW3.3.pdb
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\HW3.3.csprojAssemblyReference.cache
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\MainWindow.g.cs
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\App.g.cs
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\HW3.3_MarkupCompile.cache
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\HW3.3_MarkupCompile.lref
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\MainWindow.baml
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\HW3.3.g.resources
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\HW3._3.Properties.Resources.resources
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\HW3.3.csproj.GenerateResource.cache
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\HW3.3.csproj.CoreCompileInputs.cache
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\HW3.3.exe
+C:\Users\NIngleton\engineering45\week3\day3\HW3.3\HW3.3\obj\Debug\HW3.3.pdb
